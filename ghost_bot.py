@@ -6,8 +6,8 @@ from groq import Groq
 # 🔑 YOUR API KEYS
 # =========================================================
 
-DISCORD_TOKEN = "DISCORD_TOKEN"
-GROQ_API_KEY = "GROQ_API_KEY"
+DISCORD_TOKEN = "MTU0Nzk5ODQ1NDQ0ODM5MDE1NA.G9Ti6U.SBA9Ct965qn2UCTROM_TaJynZyFjVWOzd9zZxo"
+GROQ_API_KEY = "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"
 
 # =========================================================
 # ⚙️ CONFIG
